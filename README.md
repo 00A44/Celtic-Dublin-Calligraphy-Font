@@ -1,1 +1,1 @@
-It is not neccasarry to install unicode. You only need to change the font on the computer. I did change the "R" and "S". And felt a bit more normal. From what I understand, it was used in Latin, Middle Irish, and middle English.
+It is not neccasarry to install unicode. You only need to change the font on the computer. I did change the "R" to "" and the "S" to "". I personally feel it is a bit feel a bit more normal. From what I understand, it was used in Latin, middle Irish, and middle English.
