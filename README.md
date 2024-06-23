@@ -9,4 +9,4 @@ It is not necassary to install unicode. You only need to change the font on the 
 Fedora was a much easier experience. Just add the font file into the Font Manager, then change each font to "my font" in the Font settings page.
 ## Installing On Ubuntu
 I could never get Ubuntu to work properly. Ubuntu has a hard time rendering the fonts correctly in the web browser.
-## Installing on Windows
+## Installing on Windows 10/Windows 11
