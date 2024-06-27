@@ -4,7 +4,7 @@ Changing the font of the operating system to Gothic or Gaelic helps tremendously
 It is not necassary to install unicode. You only need to change the font on the computer. Unicode is a real drag to work with and is rather complicated. I did change the "R" to "Ꞃ" and the "S" to "Ꞅ". I personally feel it is a bit more refined. From what I understand, it was used in Latin, middle Irish, and middle English. Many of the calligraphy styles is based upon region. This font is a Dublin font.
 
  
-
+Warning: This may break your system indefinitely. I am not responsible for any problems that may occur.
 ## Installing On Fedora
 Fedora was a much easier experience. Just add the font file into the Font Manager, then change each font to "my font" in the Font settings page.
 ## Installing On Ubuntu
