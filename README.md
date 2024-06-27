@@ -11,4 +11,4 @@ Fedora was a much easier experience. Just add the font file into the Font Manage
 I could never get Ubuntu to work properly. Ubuntu has a hard time rendering the fonts correctly in the web browser.
 ## Installing on Windows 10/Windows 11
 
-## Installing on Andriod/IOS
+## Installing on Andriod
