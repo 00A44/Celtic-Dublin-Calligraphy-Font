@@ -1,5 +1,5 @@
 # Celtic Dublin Calligraphy Font
-![Font Preview](https://github.com/user-attachments/assets/44c5acb3-b874-4ebd-a498-d8f86f64d70d)
+![Font Preview](https://github.com/user-attachments/assets/68ec3aa4-5945-4455-894c-32de714c06e3)
 
 Changing the font of the operating system to Gothic or Gaelic helps tremendously. It makes it much easier to read ancient and medieval texts. The font does not contain characters with macrons and ligatures. For these types of characters you would need to set the compose key. Macrons are not necessary and the only thing that needs to be changed is the font. Extra letters and ligatures are unnecessary.
 
