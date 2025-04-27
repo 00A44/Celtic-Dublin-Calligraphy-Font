@@ -5,7 +5,7 @@ It is not necassary to install unicode. You only need to change the font on the 
  
 Warning: I am not responsible for any problems that may occur.
 ## Installing On Fedora
-Fedora was a much easier experience. Just add the font file into the Font Manager, then change each font to "my font" in the Font settings page.
+Fedora was a much easier experience. Just add the font file into the Font Manager by clicking "Install From File". You will probably need to restart your computer for the font to be properly loaded into the Font Manager. Go to Fonts in Settings. Click "Adjust all fonts". Click the check box for Fonts. Click "CelticDublinFont". Click OK and then Apply.
 ## Installing On Ubuntu
 I could never get Ubuntu to work properly. Ubuntu has a hard time rendering the fonts correctly in the web browser.
 ## Installing on Windows 10/Windows 11
